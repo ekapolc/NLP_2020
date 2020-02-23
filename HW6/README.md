@@ -6,8 +6,8 @@ To download materials for this homework to your computer, run the commands below
 
 ```
 wget --no-check-certificate https://www.dropbox.com/s/37u83g55p19kvrl/clean-phone-data-for-students.csv
-wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW6/NaiveBayesClassificationDemo.ipynb
-wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW6/hw6_text_classification.ipynb
+wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2020/master/HW6/NaiveBayesClassificationDemo.ipynb
+wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2020/master/HW6/hw6_text_classification.ipynb
 
 ```
 
