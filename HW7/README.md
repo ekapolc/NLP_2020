@@ -6,7 +6,7 @@ To download materials for this homework, run the commands below in your homework
 
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2020/master/HW7/HW7.zip
-unzip hw7.zip
+unzip HW7.zip
 
 ```
 
